@@ -1,0 +1,33 @@
+
+                              .wpmdia_tot_size{
+                                display:block;
+                                float: left;
+                                margin-right: 12px;
+                              }
+                              .wpmdia_format_type{
+                                display:block;
+                              }
+                              .wpmedia_manager_ofile_wraper{
+                                background: #6e7b9b !important;
+                              }
+                              .wpmedia_manager_ofile_wraper:hover{
+                                 background: #6e7b9b !important;
+                              }
+                              .wpmedia_manager_ofile_wraper a.wpdmdia-dwnload-ofile{
+                                color: #ffffff !important;
+                              }
+                              .wpmedia_manager_ofile_wraper a.wpdmdia-dwnload-ofile:hover{
+                                color: #ffffff !important;
+                              }
+                              .wpmedia_manager_ofile_wraper .wpdmai-file-title{
+                                font-size: 12px !important;
+                              }
+                              .wpmedia_manager_ofile_wraper .wpmdia_tot_size,
+                              .wpmedia_manager_ofile_wraper .wpmdia_format_type{
+                                font-size: 9px !important;
+                              }
+                              .wpmedia_manager_ofile_wraper .wpdmdia-content-ofile:before{
+                                color: #ffffff !important;
+                                font-size: 15px !important;
+                              }
+                            
